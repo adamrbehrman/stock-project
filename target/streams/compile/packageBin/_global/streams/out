@@ -1,0 +1,13 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/hadoop/work/projects/project-3/target/scala-2.12/stocksproject2_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	stocksproject[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hadoop/work/projects/project-3/target/scala-2.12/classes/stocksproject[0m
+[0m[[0m[0mdebug[0m] [0m[0m	stocksproject/Helpers.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hadoop/work/projects/project-3/target/scala-2.12/classes/stocksproject/Helpers.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	stocksproject/StockAnalysis.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hadoop/work/projects/project-3/target/scala-2.12/classes/stocksproject/StockAnalysis.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	stocksproject/Helpers$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hadoop/work/projects/project-3/target/scala-2.12/classes/stocksproject/Helpers$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	stocksproject/StockAnalysis$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hadoop/work/projects/project-3/target/scala-2.12/classes/stocksproject/StockAnalysis$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

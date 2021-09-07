@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/hadoop/work/projects/project-3/src/main/scala/stocks/StockAnalysis.scala:55:27: value show is not a member of org.apache.spark.sql.RelationalGroupedDataset[0m
+[0m[[0m[31merror[0m] [0m[0m    df.groupBy("Company").show(10, false)[0m
+[0m[[0m[31merror[0m] [0m[0m                          ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
